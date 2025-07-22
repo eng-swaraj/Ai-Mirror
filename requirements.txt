@@ -6,6 +6,5 @@ SpeechRecognition
 wordcloud
 scikit-learn
 email-validator
-pyaudio
 transformers==4.42.0
 
